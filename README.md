@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey everyone!
+I'm a Data science enthusiast currently learning deep learning and it's implications. I believe learning never ends and find the process fun and challenging.
+
 
 <!--
 **yogithahegde/yogithahegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
